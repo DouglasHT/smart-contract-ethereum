@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT  // Use this if you're using an open-source license
 pragma solidity 0.8.7;
 
 contract VendingMachine {
